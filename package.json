@@ -1,6 +1,6 @@
 {
   "nativescript": {
-    "id": "org.nativescript.Blank",
+    "id": "org.nativescript.VueBlank",
     "templateVersion": "v2"
   },
   "name": "tns-template-blank-vue",
